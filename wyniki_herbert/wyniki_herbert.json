@@ -1,0 +1,23 @@
+{
+  "model": "allegro/herbert-base-cased",
+  "config": {
+    "max_len": 256,
+    "batch_size": 16,
+    "epochs": 3,
+    "lr": 2e-05
+  },
+  "val": {
+    "accuracy": 0.9717,
+    "f1": 0.9716,
+    "precision": 0.9751,
+    "recall": 0.9682,
+    "roc_auc": 0.9943
+  },
+  "test": {
+    "accuracy": 0.9735,
+    "f1": 0.9737,
+    "precision": 0.9653,
+    "recall": 0.9823,
+    "roc_auc": 0.9951
+  }
+}

@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/zofia/Desktop/fake_news_classifier/mlruns/1/models/m-d6a04d9ccdcd4fb1ad5e4ab89a5615e5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.11.1
+model_id: m-d6a04d9ccdcd4fb1ad5e4ab89a5615e5
+model_size_bytes: 400703
+model_uuid: m-d6a04d9ccdcd4fb1ad5e4ab89a5615e5
+prompts: null
+run_id: 0b331ab430b64878beb0d92020167750
+utc_time_created: '2026-05-02 15:20:30.443811'

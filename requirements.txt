@@ -1,0 +1,38 @@
+# Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+selenium>=4.18.0
+webdriver-manager>=4.0.0
+
+# Data
+pandas>=2.0.0
+numpy>=2.0.0
+
+# ML — baseline
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+scipy>=1.11.0
+
+# ML — fine-tuning (HerBERT)
+torch>=2.1.0
+transformers>=4.38.0
+datasets>=2.18.0
+sentencepiece>=0.1.99
+tiktoken>=0.6.0
+accelerate>=1.1.0
+
+# Sentyment
+# cardiffnlp/twitter-xlm-roberta-base-sentiment pobierany automatycznie przez transformers
+
+# Tracking
+mlflow>=2.16.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.13.0
+
+# UI
+streamlit>=1.32.0
+
+# Testing
+pytest>=7.4.0
