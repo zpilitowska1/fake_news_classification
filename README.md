@@ -90,8 +90,8 @@ HerBERT rozumie kontekst i znaczenie zdań, co jest szczególnie ważne przy tek
 
 Aplikacja webowa zbudowana w Streamlit.
 
-![UI](https://github.com/ZofiaPilitowska240272/fake_news_classification/blob/main/docs/real_news_detection.png)
-![UI](https://github.com/ZofiaPilitowska240272/fake_news_classification/blob/main/docs/fake_news%20words.png)
+![UI](https://github.com/zpilitowska1/fake_news_classification/blob/main/docs/real_news_detection.png)
+![UI](https://github.com/zpilitowska1/fake_news_classification/blob/main/docs/fake_news%20words.png)
 
 **Funkcje:**
 - Wybór modelu (TF-IDF lub HerBERT) z opisem każdego
