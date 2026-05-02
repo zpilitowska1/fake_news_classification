@@ -105,8 +105,8 @@ Aplikacja webowa zbudowana w Streamlit.
 ## Uruchomienie
 
 ```bash
-git clone https://github.com/ZofiaPilitowska240272/fake_news_classification.git
-cd fake_news_classifier
+git clone https://github.com/zpilitowska1/fake_news_classification.git
+cd fake_news_classification
 python -m venv .venv
 
 # Windows
